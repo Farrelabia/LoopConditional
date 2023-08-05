@@ -1,5 +1,3 @@
-// var jmAnkot = 10;
-// var angkotBeroperasi = 6;
 var jmAnkot = prompt('ada berapa jumlah angkot')
 var angkotBeroperasi = prompt('Ada berapa angkot yang beroperasi')
 
