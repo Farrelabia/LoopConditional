@@ -12,3 +12,4 @@ for( var noAngkot = 1; noAngkot <= jmAnkot; noAngkot++ ) {
   }
 }
 // perubahan abia
+// buat contoh
