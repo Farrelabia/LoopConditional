@@ -13,4 +13,4 @@ for( var noAngkot = 1; noAngkot <= jmAnkot; noAngkot++ ) {
     console.log('Angkot No. ' + noAngkot + ' sedang tidak beroperasi.');
   }
 }
-// perubahan
+// perubahan abia
